@@ -1,2 +1,2 @@
 # next-fsd
-Feature-Slced Design pattern example
+Feature-Sliced Design pattern example
